@@ -16,5 +16,5 @@ The codes are built on Google Colab. Please downlaod the dataset from [LIAR data
 
 ### Authors and acknowledgment
 
-Thank to my partner, Wayne (Chun-Wei) Wang. We worked on this project together, and it was quite a good old days for me. Also, thank to the fantastic instuctor Prof. Gurari, who always supports our idea and encourage us to give it a try! Last but not least, thank to Dr. [William Yang Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+W+Y), who built LIAR dataset.
+Thank to my partner, Wayne (Chun-Wei) Wang. We worked on this project together, and it was quite a good old days for me. Also, thank to the fantastic instuctor Prof. Gurari, who always supports our idea and encourage us to give it a try! Last but not least, thank to Dr. William Yang Wang, who built LIAR dataset.
 
